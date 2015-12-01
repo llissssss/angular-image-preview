@@ -1,0 +1,33 @@
+{
+  "name": "angular-image-preview",
+  "version": "0.0.0",
+  "homepage": "https://github.com/llissssss/angular-image-preview",
+  "description": "Simple angular module to preview an image",
+  "main": [
+    "js/angular-image-preview.js",
+    "css/angular-image-preview.css"
+  ],
+  "moduleType": [],
+  "keywords": [
+    "angular",
+    "angularjs",
+    "image",
+    "preview",
+    "tooltip"
+  ],
+  "dependencies": {
+    "angular": "^1.0.0"
+  },
+  "authors": [
+    "Albert Casadessús <albert.casadessus@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    ".idea",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

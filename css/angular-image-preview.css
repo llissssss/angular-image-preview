@@ -1,0 +1,13 @@
+#ll-image-preview-tooltip {
+	visibility: hidden;
+	opacity:0;
+	position: absolute;
+	z-index: 2000;
+	background-color: #cccccc;
+	border: 2px solid #cccccc;
+}
+
+#ll-image-preview-tooltip.visible {
+	visibility: visible;
+	opacity: 1;
+}
