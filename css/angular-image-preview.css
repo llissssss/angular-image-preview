@@ -1,6 +1,7 @@
 #ll-image-preview-tooltip {
 	visibility: hidden;
 	opacity:0;
+    transition: opacity 1s ease-out;
 	position: absolute;
 	z-index: 2000;
 	background-color: #cccccc;
